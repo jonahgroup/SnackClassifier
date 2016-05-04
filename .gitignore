@@ -1,0 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.out
+*.pid
+*.gz
+*.pyc
+
+pids
+logs
+results
+snack-env
+
+npm-debug.log

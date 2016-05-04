@@ -1,0 +1,6 @@
+ipython
+Flask
+Flask-Script
+Flask-BasicAuth
+unipath
+SimpleCV
